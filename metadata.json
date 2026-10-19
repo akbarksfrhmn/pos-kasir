@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Kasir Kedai & Toko",
+  "description": "Kasir berbasis web ringan untuk kedai kopi atau toko kecil, lengkap dengan pembuatan katalog QR, pencatatan stok harian, dan laporan laba rugi sederhana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
